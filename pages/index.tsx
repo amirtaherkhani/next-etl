@@ -1,4 +1,5 @@
 import { GetServerSidePropsContext } from "next"
+import { Analytics } from "@vercel/analytics/react"
 import Head from "next/head"
 import { Button } from "components/Button/Button"
 import { LP_GRID_ITEMS } from "../lp-items"
@@ -54,6 +55,9 @@ export default function Web() {
             ))}
           </div>
         </div>
+      </section>
+      <section>
+        <Analytics />
       </section>
     </>
   )

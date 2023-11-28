@@ -63,6 +63,8 @@ export default function Web() {
   )
 }
 
+
+
 export async function getServerSideProps({ req, res }: GetServerSidePropsContext) {
   if (req.headers?.host?.includes("next-enterprise.vercel.app")) {
     return {

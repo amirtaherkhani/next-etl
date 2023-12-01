@@ -10,6 +10,11 @@ Welcome to the _Next.js Enterprise Boilerplate_, an open-source template for ent
 </a>
 <br />
 
+
+![Alt](https://repobeats.axiom.co/api/embed/cb69b886883d6703a736041d019adc60aa8095c8.svg "Repobeats analytics image")
+
+
+
 ## 📚 Features
 
 With this template, you get all the awesomeness you need:
@@ -289,6 +294,11 @@ This project is licensed under the MIT License. For more information, see the [L
     </tr>
   </tfoot>
 </table>
+
+
+
+
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
